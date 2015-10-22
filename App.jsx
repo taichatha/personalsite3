@@ -11,6 +11,8 @@ App = React.createClass({
         
         
         <About />
+        <CV />
+        <Services />
         <Portfolio />
       </div>
     );
